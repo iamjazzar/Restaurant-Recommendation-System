@@ -6,6 +6,8 @@ Recommendation System which returns top 3 recommendations which provide business
 ## Approach
 The architecture of the Feature Extraction model for System
 
+![The architecture](https://raw.githubusercontent.com/ahmedaljazzar/Restaurant-Recommendation-System/blob/master/architecture.png)
+
 ### Matrix Factorization
 
 I followed traditional approach matrix factorization or latent factor collaborative filtering. Initially constructed rating matrix 𝑀 ∈ R$×& where index contains user id, columns contains business id and values filled with ratings. I factorize the matrix 𝑀 into two matrices 𝑃 ∈ R$×( and 𝑄 ∈ R(×& and solved the following optimization problem
