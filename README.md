@@ -6,7 +6,7 @@ Recommendation System which returns top 3 recommendations which provide business
 ## Approach
 The architecture of the Feature Extraction model for System
 
-![The architecture](https://raw.githubusercontent.com/ahmedaljazzar/Restaurant-Recommendation-System/blob/master/architecture.png)
+![The architecture](https://github.com/ahmedaljazzar/Restaurant-Recommendation-System/raw/master/architecture.png)
 
 ### Matrix Factorization
 
